@@ -6,7 +6,7 @@ A cozy black-and-white storytelling illustration series about tiny determined ch
 
 This project explores visual storytelling through small comic-style panels, expressive characters, and high-contrast ink illustrations.
 
-Live app:  
+Live app:  S
 https://ink-illustration.streamlit.app/
 
 ---
