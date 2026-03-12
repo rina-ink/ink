@@ -1,12 +1,12 @@
 # Little Chefs & The Strudel
-![project_img](images/illustration_project.png)
+![project_img](images/Illustration_project.png)
 *Figure 1. Illustration project*
 
 A cozy black-and-white storytelling illustration series about tiny determined chefs baking the perfect strudel.
 
 This project explores visual storytelling through small comic-style panels, expressive characters, and high-contrast ink illustrations.
 
-Live app:  S
+Live app:  
 https://ink-illustration.streamlit.app/
 
 ---
@@ -42,7 +42,7 @@ But the kitchen has other plans:
 
 The story highlights **teamwork, curiosity, and determination**, as small characters take on a very big baking task.
 
-![project_img](images/illustration.png)
+![project_img](images/Illustration.png)
 
 *Figure 2. Illustration*
 
